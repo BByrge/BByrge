@@ -16,6 +16,7 @@
 
 ---
 
+![togif-ezgif com-optimize](https://github.com/user-attachments/assets/8530c296-635b-4a70-bbcf-57c8063a9962)
 ### [Language Immersion Virtual Environment](<https://github.com/ThomaDevOSU/LIVE>)
 *Immersive language learning game powered by GPT-4o.*
 
