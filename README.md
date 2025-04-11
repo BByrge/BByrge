@@ -1,7 +1,4 @@
 <h1 align="center">Hi, I'm Bradley Byrge 👨‍💻</h1>
-<h3 align="center">Software Developer</h3>
-
----
 
 ## 🚀 Featured Projects 
 
@@ -23,9 +20,14 @@
 - 🎯 Infinite context-rich dialogue, dynamic NPC behavior, advanced proficiency scoring
 - 💻 **Tech Stack:** C#, Unity, OpenAI API
 
-<img align="left" src="https://github.com/user-attachments/assets/8530c296-635b-4a70-bbcf-57c8063a9962" width="200" alt="Language Immersion Demo"/>
+⬇️ **Come meet Pattie the Baker, she speaks any language you want and has infinite dialogue.**
+
+<img align="left" src="https://github.com/user-attachments/assets/8530c296-635b-4a70-bbcf-57c8063a9962" width="400" alt="Language Immersion Demo"/>
 
 <br clear="left"/>
+
+<sub>🤫 *I secretly added an easter egg where she breaks the fourth wall and gets disturbingly self-aware—just say a certain word three times. My teammates have no idea. Isn’t game dev fun?* </sub>
+
 
 ---
 
