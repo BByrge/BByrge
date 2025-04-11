@@ -23,7 +23,7 @@
 - 🎯 Infinite context-rich dialogue, dynamic NPC behavior, advanced proficiency scoring
 - 💻 **Tech Stack:** C#, Unity, OpenAI API
 
-<img align="left" src="https://github.com/user-attachments/assets/8530c296-635b-4a70-bbcf-57c8063a9962" width="400" alt="Language Immersion Demo"/>
+<img align="left" src="https://github.com/user-attachments/assets/8530c296-635b-4a70-bbcf-57c8063a9962" width="200" alt="Language Immersion Demo"/>
 
 <br clear="left"/>
 
