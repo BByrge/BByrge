@@ -36,7 +36,7 @@
 - 🧠 Fine-tuned Llama 3.2 model for standardized, seamless workflows
 - 💻 **Tech Stack:** Python, Ollama
 
-<img align="left" src="https://github.com/user-attachments/assets/2c9464d0-db60-48df-82eb-d760e16cc3d8" width="400" alt="Obsidian Formatting Demo"/>
+<img align="left" src="https://github.com/user-attachments/assets/2c9464d0-db60-48df-82eb-d760e16cc3d8" width="300" alt="Obsidian Formatting Demo"/>
 
 <br clear="left"/>
 
