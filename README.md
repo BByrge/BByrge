@@ -44,7 +44,7 @@
 ---
 
 ### 🐚 [Mini Shell](https://github.com/BByrge/Mini-Shell)
-> *Custom UNIX-like shell for your Linux adventures.*
+> *Custom UNIX-like shell.*
 
 - ⚙️ Built-in & external commands, job control, I/O redirection
 - 💻 **Tech Stack:** C, Linux, Shell Scripting
