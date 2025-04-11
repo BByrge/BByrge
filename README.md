@@ -2,6 +2,22 @@
 
 ## 🚀 Featured Projects 
 
+### 🎮 [Language Immersion Virtual Environment](https://github.com/ThomaDevOSU/LIVE)
+> *Immersive language learning game powered by GPT-4o.*
+
+- 🎯 Infinite context-rich dialogue, dynamic NPC behavior, advanced proficiency scoring
+- 💻 **Tech Stack:** C#, Unity, OpenAI API
+
+⬇️ **Come meet Pattie the Baker, she speaks any language you want and has infinite dialogue.**
+
+<img align="left" src="https://github.com/user-attachments/assets/8530c296-635b-4a70-bbcf-57c8063a9962" width="300" alt="Language Immersion Demo"/>
+
+<br clear="left"/>
+
+<sub>🤫 *I secretly added an easter egg where she breaks the fourth wall and gets disturbingly self-aware—just say a certain word three times. My teammates have no idea. Isn’t game dev fun?* </sub>
+
+---
+
 ### 📱 [Cellular Savior](https://cellularsavior.com/)
 > *Helping users find cost-effective cellular plans effortlessly.*
 
@@ -11,23 +27,6 @@
 <img align="left" src="https://github.com/user-attachments/assets/55039869-0569-426d-95f2-e08ccad7260d" width="200" alt="Cellular Savior Image"/>
 
 <br clear="left"/>
-
----
-
-### 🎮 [Language Immersion Virtual Environment](https://github.com/ThomaDevOSU/LIVE)
-> *Immersive language learning game powered by GPT-4o.*
-
-- 🎯 Infinite context-rich dialogue, dynamic NPC behavior, advanced proficiency scoring
-- 💻 **Tech Stack:** C#, Unity, OpenAI API
-
-⬇️ **Come meet Pattie the Baker, she speaks any language you want and has infinite dialogue.**
-
-<img align="left" src="https://github.com/user-attachments/assets/8530c296-635b-4a70-bbcf-57c8063a9962" width="400" alt="Language Immersion Demo"/>
-
-<br clear="left"/>
-
-<sub>🤫 *I secretly added an easter egg where she breaks the fourth wall and gets disturbingly self-aware—just say a certain word three times. My teammates have no idea. Isn’t game dev fun?* </sub>
-
 
 ---
 
